@@ -1,0 +1,6 @@
+dist/
+*~
+*.pyc
+\#*\#
+agml.egg-info
+__pycache__
